@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.js": "/pickleball-ranking-site/static/js/main.2d13b2e6.js",
+    "main.js": "/pickleball-ranking-site/static/js/main.b713a5af.js",
     "static/js/453.225ee2c7.chunk.js": "/pickleball-ranking-site/static/js/453.225ee2c7.chunk.js",
     "index.html": "/pickleball-ranking-site/index.html",
-    "main.2d13b2e6.js.map": "/pickleball-ranking-site/static/js/main.2d13b2e6.js.map",
+    "main.b713a5af.js.map": "/pickleball-ranking-site/static/js/main.b713a5af.js.map",
     "453.225ee2c7.chunk.js.map": "/pickleball-ranking-site/static/js/453.225ee2c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.2d13b2e6.js"
+    "static/js/main.b713a5af.js"
   ]
 }
